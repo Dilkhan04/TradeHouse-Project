@@ -1,0 +1,21 @@
+.Header {
+    padding-top: 10px;
+    position: sticky;
+}
+.HeaderInner {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.HeaderInnerOne {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.HeaderInnerOne img {
+    padding: 0 10px 0 0;
+}
+.HeaderInnerOne h2 {
+    font-size: 24px;
+    color: #1c2835;
+}
